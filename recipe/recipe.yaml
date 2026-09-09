@@ -1,5 +1,5 @@
 context:
-  version: "66.10.0"
+  version: "66.10.1"
 
 package:
   name: unocss
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@unocss/cli/-/cli-${{ version }}.tgz
-  sha256: f025f13c22b7bf2141a8fa68a1a6203248ca5cbcad9b851a1e92486227566895
+  sha256: 5d11f9c45c9a4414448be6ca80b54f2cb02e5e0d1d16117036682037a481d31f
 
 build:
   noarch: generic
